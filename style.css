@@ -54,4 +54,6 @@ body{
   .background{
     background-image: url(img/phone.jpg);
   }
+  body{
+    margin: 20px 0;
 }
