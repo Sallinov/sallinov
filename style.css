@@ -33,7 +33,7 @@ body{
   margin-top: 50px;
 }
 .img a{
-  padding:0 3px;
+  margin:0 3px;
 }
 .body{
   margin-top: calc(50vh - 177.5px);
