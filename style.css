@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron|Rochester');
+body{
+  padding: 0;
+  margin: 0;
+}
+.background{
+  background-image: url(img/backgrounde.jpg);
+  -moz-background-size: 100vw 100vh;
+  -webkit-background-size: 100vw 100vh;
+  -o-background-size: 100vw 100vh;
+  background-size: 100vw 100vh;
+}
+.Rochester{
+  font-family: 'Rochester', cursive;
+  color: #fff;
+}
+.name{
+  font-size: 100px;
+  line-height: 100px;
+}
+.center{
+  text-align: center;
+}
+.description{
+  margin-top: 50px;
+  padding: 0 10px;
+  line-height: 25px;
+  font-size:20px;
+  font-family: 'Orbitron', sans-serif;
+  color: #fff;
+}
+.img{
+  margin-top: 50px;
+}
+.img a{
+  padding:0 10px;
+}
+.body{
+  margin-top: calc(50vh - 177.5px);
+}
+@media (max-width: 740px) {
+  .Rochester{
+    margin-top: 48px;
+    line-height: 50px;
+    font-size: 50px;
+  }
+  .background{
+    background-image: url(img/phone.jpg);
+  }
+}
