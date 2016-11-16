@@ -36,7 +36,7 @@ body{
   margin:0 10px;
 }
 .body{
-  margin-top: calc(50vh - 177.5px);
+  margin-top: calc(50vh - 142px);
 }
 @media (max-width: 740px) {
   .Rochester{
