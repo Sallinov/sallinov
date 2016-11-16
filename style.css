@@ -33,7 +33,7 @@ body{
   margin-top: 50px;
 }
 .img a{
-  padding:0 10px;
+  padding:0 5px;
 }
 .body{
   margin-top: calc(50vh - 177.5px);
@@ -41,8 +41,11 @@ body{
 @media (max-width: 740px) {
   .Rochester{
     margin-top: 48px;
-    line-height: 50px;
-    font-size: 50px;
+    line-height: 40px;
+    font-size: 40px;
+  }
+  .description {
+    font-size: 15px;
   }
   .background{
     background-image: url(img/phone.jpg);

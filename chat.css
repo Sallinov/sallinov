@@ -69,6 +69,8 @@ label.btn:hover {
 }
 /* Активация панели */
 .open:checked ~ .top-panel {
+  padding-bottom: 7px;
+  height: auto;
     left: 0;
 }
 .open:checked ~ label.btn {
