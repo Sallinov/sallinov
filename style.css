@@ -33,7 +33,11 @@ body{
   margin-top: 50px;
 }
 .img a{
+<<<<<<< HEAD
   padding:0 5px;
+=======
+  margin:0 3px;
+>>>>>>> b8655704070435bfa69e8187b1abdbb06be261f3
 }
 .body{
   margin-top: calc(50vh - 177.5px);
